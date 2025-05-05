@@ -46,7 +46,7 @@ https://bestmovierecommendor.streamlit.app/
 
 ## 📸 Screenshots
 
-![Screenshot 2025-05-05 120201](https://github.com/user-attachments/assets/65360bd6-7a5c-40ad-876c-f3e84e6311e8)
+![Screenshot 2025-05-05 120733](https://github.com/user-attachments/assets/ac889877-a96a-4ce0-81af-c7f33bf34f55)
 
 ![Screenshot 2025-05-05 120243](https://github.com/user-attachments/assets/b9a3b7c0-1955-4b2a-8be5-dc94e62eb87e)
 
